@@ -1,12 +1,12 @@
-<p align="center"><a href="https://www.facebook.com/AYAN.JANU.LOVE.YOU.MY.HEART" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/oapEhQg.gif" width="50" style="margin-right: 10px;"></a>
+<p align="center"><a href="https://www.facebook.com/NOOBS.DEVELOPER.AYAN" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.imgur.com/0e3Z3X9.jpeg" width="50" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
-🔹Mohammad Ayan
+🔹MR.AYAN
 </h5>
 
 ## Introduction
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> GOATBOTV2 - Bot Chat Messenger</h1>
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> GOATBOT - Bot Chat Messenger</h1>
 
 <p align="center">
 	<a href="https://nodejs.org/dist/v11.30.0">
@@ -38,9 +38,9 @@
 			<a href="https://replit.com/@CliffvincentTor" style="color: green;">@Ayanchoudhuri🔥</a>
 				<br>
 	My Facebook Account ->
-	<a href="https://www.facebook.com/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: black;">Ayan🚀</a></h3></div>
+	<a href="https://www.facebook.com/NOOBS.DEVELOPER.AYAN" style="color: black;">Ayan🚀</a></h3></div>
 
-<img align="center" src="https://i.imgur.com/wovTalh.jpeg"/>
+<img align="center" src="https://i.imgur.com/TsIjePZ.jpeg"/>
 
 
 🔹Mohammad Ayan
@@ -48,13 +48,13 @@
 
 # Editing AYAN CHOWDHURY😘
 
-# GOATBOTV3 real owner I don’t know
+# GOATBOT real owner I don’t know
 
 # Everyone run this GOWTBOTV3 for fun
 
 # If there is any error, I will fix it by knocking on Facebook
 
-# https://www.facebook.com/AYAN.JANU.LOVE.YOU.MY.HEART
+# https://www.facebook.com/NOOBS.DEVELOPER.AYAN
 
 # I hope you enjoy
 
