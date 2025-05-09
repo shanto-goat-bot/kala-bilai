@@ -54,6 +54,7 @@
     "start": "set NODE_ENV=&& node index.js",
     "dev": "set NODE_ENV=development&& node index.js",
     "prod": "set NODE_ENV=production&& node index.js"
+   "test": "echo \"No tests specified\" && exit 0"
   },
   "author": "NTKhang",
   "license": "MIT",
