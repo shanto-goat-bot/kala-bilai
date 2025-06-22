@@ -17,9 +17,9 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61551774501334",
+    "61575889146877",
     "",
-    "61552536510387"
+    ""
   ],
   "whiteListMode": {
     "enable": false,
@@ -31,7 +31,7 @@
   "GENDER": "MALE",
   "nickNameBot": "𝗭𝗘𝗥𝗢 𝗧𝗪𝗢 ★࿐",
   "authorFB": "",
-  "prefix": ".",
+  "prefix": "",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
